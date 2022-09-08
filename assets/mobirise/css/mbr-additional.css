@@ -1058,6 +1058,7 @@ a {
 .cid-sFzxmVl7J6 .mbr-text,
 .cid-sFzxmVl7J6 .mbr-section-btn {
   color: #353535;
+  justify: content;
 }
 .cid-sFzxmVl7J6 .btn-primary {
   display: inline-flex;

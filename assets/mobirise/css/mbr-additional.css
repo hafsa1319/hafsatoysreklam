@@ -1170,7 +1170,7 @@ a {
 }
 .cid-tgMqal4gi5 .h-product-thumbs {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(8, 1fr);
   gap: 10px;
   border: 1px solid #C4C4C475;
   padding: 20px 10px;
@@ -1490,6 +1490,11 @@ a {
 }
 .cid-tgN4iWp7r3 .mbr-text {
   color: #000000;
+}
+.cid-tgN4iWp7r3 .geridonusum {
+  width: 90px;
+  height: auto;
+  margin-top: -10px;
 }
 .cid-tgMKmtffzr .getquote-warp {
   margin-top: 65px;

@@ -737,7 +737,7 @@
               "padding": "20px 10px"
             },
             ".h-product-image-item": {
-              "padding": "10px "
+              "padding": "0px "
             },
             ".h-product-image img": {
               "width": "auto",

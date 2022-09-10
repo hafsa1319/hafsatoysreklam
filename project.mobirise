@@ -1160,10 +1160,10 @@
             ".geridonusum": {
               "padding-top": "0px",
               "width": "80px",
-              "height": "auto"
+              "height": "80px"
             },
             ".donusum-baslik": {
-              "padding-top": "15px"
+              "padding-top": "10px"
             },
             ".donusumlu": {
               "padding-top": "15px"
